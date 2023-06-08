@@ -2,7 +2,7 @@
 
 一个帮助新手、初级、中级前端开发者不断精进学习的网站，前端学习路上，不再迷茫~
 
-🚀 [访问路线](https://objtube.github.io/front-end-roadmap/#/)
+🚀 [访问路线](https://leesnug.github.io/front-end-roadmap/#/)
 
 📺 [Up主视频讲解前端学习路线](https://www.bilibili.com/video/BV1ZZ4y1H7rU/)
 
